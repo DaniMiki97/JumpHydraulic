@@ -7,6 +7,7 @@ typedef float F;
 typedef const float CF;
 typedef const int CEnt;
 // holaaaaaa
+//holaaa
 
 #endif // TIPOS
 
