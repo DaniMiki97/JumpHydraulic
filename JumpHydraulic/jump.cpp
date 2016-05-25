@@ -16,4 +16,4 @@ Jump::~Jump()
 void Jump::on_pushButton_clicked()
 {
 
-}
+//pruebita
